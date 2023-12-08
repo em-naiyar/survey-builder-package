@@ -1,8 +1,9 @@
 {
-    "name": "em_survey/mypackagesurvey3",
+    "name": "em_survey/mypackagesurvey4",
     "description": "This is survey for surveybuilders",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
@@ -13,9 +14,9 @@
             "name": "Naiyar",
             "email": "naiyar@enterpisemonkey.com"
         }
-    ],
+    ], 
     "minimum-stability": "dev",
     "require": {
-    "em_survey/mypackagesurvey3": "dev-main"
+    "em_survey/mypackagesurvey4": "dev-main"
 }
 }
