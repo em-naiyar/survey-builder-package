@@ -1,5 +1,5 @@
 {
-    "name": "mypackagesurvey",
+    "name": "vendor/mypackagesurvey",
     "description": "This is survey for surveybuilders",
     "type": "library",
     "license": "MIT",
