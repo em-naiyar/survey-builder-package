@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "em_survey/mypackagesurvey": "^1.0"
+    }
 }
