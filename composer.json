@@ -17,5 +17,5 @@
     "minimum-stability": "dev",
     "require": {
     "em_survey/mypackagesurvey3": "dev-main"
-},
+}
 }
