@@ -1,0 +1,19 @@
+{
+    "name": "surveybuilders/survey",
+    "description": "This is survey for surveybuilders",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Surveybuilders\\Survey\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naiyar",
+            "email": "naiyar@enterpisemonkey.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
