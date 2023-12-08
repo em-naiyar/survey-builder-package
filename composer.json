@@ -15,6 +15,12 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ], 
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/em-naiyar/survey-builder-package"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
     "em_survey/mypackagesurvey4": "dev-main"
